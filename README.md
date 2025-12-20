@@ -50,6 +50,9 @@ O modelo final (XGBoost Otimizado) apresentou performance superior, validada via
 Não basta prever, é preciso explicar. Utilizamos **SHAP (SHapley Additive exPlanations)** para abrir a "caixa preta" do modelo.
 * **Insight:** O modelo identificou que o valor da transação (`amt`) e a categoria de compra são os maiores preditores de risco, alinhando-se com a intuição de negócio.
 
+<img width="780" height="940" alt="image" src="https://github.com/user-attachments/assets/a239f1ac-c2f6-407b-97ca-ac7e6c80e4bb" />
+
+
 ---
 
 ## 🚀 5. Como Executar o Projeto
