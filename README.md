@@ -64,4 +64,4 @@ Não basta prever, é preciso explicar. Utilizamos **SHAP (SHapley Additive exPl
 ### Passo a Passo
 1. Clone o repositório:
    ```bash
-   git clone [[[https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/gvaguilherme21/Caixaverso/blob/main/Trabalho_Final_ML1_Guilherme.ipynb)](https://github.com/gvaguilherme21/Caixaverso/blob/main/Trabalho_Final_ML1_Guilherme.ipynb)]([https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/gvaguilherme21/Caixaverso/blob/main/Trabalho_Final_ML1_Guilherme.ipynb))
+   git clone [[(https://github.com/gvaguilherme21/Caixaverso/blob/main/Trabalho_Final_ML1_Guilherme.ipynb)]
